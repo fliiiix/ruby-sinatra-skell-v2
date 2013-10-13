@@ -7,3 +7,6 @@ Just a minimal project skeleton
 * [Sinatra](http://www.sinatrarb.com/)
 * [MongoDB](http://www.mongodb.org/) & [MongoMapper](http://mongomapper.com/)
 * [Pure](http://purecss.io/)
+
+##Install gem's
+`bundle install --binstubs --path vendor` 
